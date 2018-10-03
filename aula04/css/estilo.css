@@ -1,0 +1,33 @@
+#div1 {
+    background-color: blue;
+}
+
+#div2 {
+    background-color: green;
+}
+
+
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+    color: gold;
+}
+
+#p1 {
+    color: orange;
+}
+
+#p2 {
+    color: brown;
+}
+
+.alerta{
+    background-color: grey;
+}
+
+.alerta{
+    margin-right: 150px;
+}
+
+div{
+    border: 2px solid black;
+}
